@@ -1,2 +1,2 @@
 # MyFirstRepo
-Test Repo to learn Github
+Test Repo for learn Github
